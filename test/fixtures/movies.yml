@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  duration: 2019-08-08 11:51:22
+  director: one
+  genre: one
+
+two:
+  name: MyString
+  duration: 2019-08-08 11:51:22
+  director: two
+  genre: two
