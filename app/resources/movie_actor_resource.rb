@@ -1,4 +1,4 @@
 class MovieActorResource < JSONAPI::Resource
-  belongs_to :actor
-  belongs_to :movie
+  has_one :actor
+  has_one :movie
 end
